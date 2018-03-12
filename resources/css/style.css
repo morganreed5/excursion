@@ -1,0 +1,15 @@
+html {
+    font-family: verdana;
+    background-color: black;
+    text-align: center;
+}
+
+h1, h2 {
+    color: white;
+    text-align: inherit;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    }
